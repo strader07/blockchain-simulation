@@ -1,5 +1,5 @@
 {
-  "name": "blockchain-demo",
+  "name": "blockchain-simulation",
   "description": "A web-based demonstration of blockchain concepts.",
   "author": {
     "name": "Sole Trader"
@@ -8,7 +8,8 @@
   "keywords": [
     "blockchain",
     "demo",
-    "bitcoin"
+    "bitcoin",
+    "simulation"
   ],
   "scripts": {
     "start": "node ./bin/www"
