@@ -1,0 +1,5 @@
+*~
+.*~
+node_modules/
+tools/runkeeper/
+docker-compose.override.yml
