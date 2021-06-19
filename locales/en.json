@@ -17,5 +17,6 @@
 	"Tx": "Tx",
 	"From": "From",
 	"Mine (difficulty: 3)": "Mine (difficulty: 3)",
-	"Mine (difficulty = 3)": "Mine (difficulty = 3)"
+	"Mine (difficulty = 3)": "Mine (difficulty = 3)",
+	"Blockchain Simulation": "Blockchain Simulation"
 }
